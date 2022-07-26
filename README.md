@@ -4,7 +4,7 @@ Personal landing page template.
 
 Designed to keep simplicity in mind in both setup and UI.
 
-![Demo](https://drive.google.com/file/d/1aZpwsuEqzdnsR2ZBKw7pPBhRRx-Dj_om/view?usp=sharing)
+![Demo](https://systempeaker.com/wp-content/uploads/2021/10/windows_hello_hero_2-3173069.jpg)
 
 ## Stack
 
