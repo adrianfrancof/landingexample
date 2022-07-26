@@ -4,7 +4,7 @@ Personal landing page template.
 
 Designed to keep simplicity in mind in both setup and UI.
 
-![Demo]()
+![Demo](https://drive.google.com/file/d/1aZpwsuEqzdnsR2ZBKw7pPBhRRx-Dj_om/view?usp=sharing)
 
 ## Stack
 
