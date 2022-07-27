@@ -1,8 +1,8 @@
 # Landing Page
 
-Personal landing page template.
+Personal landing template.
 
-Designed to keep simplicity in mind in both setup and UI.
+Diseñado para la simplicidad.
 
 ![Demo](https://systempeaker.com/wp-content/uploads/2021/10/windows_hello_hero_2-3173069.jpg)
 
@@ -14,7 +14,7 @@ Designed to keep simplicity in mind in both setup and UI.
  
 ## Installation
 
-1. `git clone https://github.com/adrianedutecno/landing.git`
+1. `git clone https://github.com/adrianfrancof/landingexample.git`
 
 2. Open `index.html`. That's it!
 
